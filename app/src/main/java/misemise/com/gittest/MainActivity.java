@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         textView = (TextView)findViewById(R.id.textView);
 
         // Hee Test push test
-        // Hee Test commit
+        // Hee Test commit_01
+        // Hee Test commit_02
     }
 }
